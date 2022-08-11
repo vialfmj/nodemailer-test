@@ -1,6 +1,7 @@
-##Welcome to my nodemailer-test project
+---
+#Welcome to my nodemailer-test project
 This project is about send mails using nodemailer in nodeJs
-
+---
 ## How to use:
 - Set NODEMAILER_USER and NODEMAILER_PASS environment  variables where
 NODEMAILER_USER is the email from you send mails and NODEMAILER_PASS is the respective password.
