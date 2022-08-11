@@ -1,5 +1,5 @@
 
-#Welcome to my nodemailer-test project
+# Welcome to my nodemailer-test project
 This project is about send mails using nodemailer in nodeJs
 ---
 ## How to use:
@@ -16,6 +16,6 @@ variables in the index.js file.
 - use "npm start" to run de project
 
 ---
-##Libraries:  [nodamailer](https://www.npmjs.com/package/nodemailer)
-##My projects: [github](https://github.com/vialfmj)
-##My profile [Linkedin](https://www.linkedin.com/in/franco-mario-javier-vial-b91b77214/)
+## Libraries:  [nodamailer](https://www.npmjs.com/package/nodemailer)
+## My projects: [github](https://github.com/vialfmj)
+## My profile [Linkedin](https://www.linkedin.com/in/franco-mario-javier-vial-b91b77214/)
